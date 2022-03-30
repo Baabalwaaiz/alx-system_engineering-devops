@@ -1,1 +1,1 @@
-7-movethatfile: Moves file from one directory to the other
+9-firstdirdelete: Deleting a directory
