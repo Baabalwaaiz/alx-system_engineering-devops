@@ -1,1 +1,1 @@
-6-firstdirectory: Creating a directory in /tmp/ directory
+7-movethatfile: Moves file from one directory to the other
