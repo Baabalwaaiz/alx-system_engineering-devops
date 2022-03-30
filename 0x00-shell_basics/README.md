@@ -1,1 +1,1 @@
-4-listmorefiles: List all files
+6-firstdirectory: Creating a directory in /tmp/ directory
