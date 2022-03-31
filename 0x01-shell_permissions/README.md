@@ -1,1 +1,1 @@
-5-execute: Add file execution to owner
+6-multiple_permissions: Give executionaccess to user and groups
