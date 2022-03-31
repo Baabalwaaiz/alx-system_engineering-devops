@@ -1,1 +1,1 @@
-12-file_type: Prints file type
+13-symbolic_link: Creating a symbolic link
