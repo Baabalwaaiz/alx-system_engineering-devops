@@ -1,1 +1,1 @@
-103-commas: Separating list by commas
+school.mgc: Creating a magic file
