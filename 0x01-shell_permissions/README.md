@@ -1,1 +1,1 @@
-6-multiple_permissions: Give executionaccess to user and groups
+Give execution permissions to everybody
