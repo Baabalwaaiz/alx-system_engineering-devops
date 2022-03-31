@@ -1,1 +1,1 @@
-101-clean_emacs: Removes files ending with ~
+102-tree: Insert directories
