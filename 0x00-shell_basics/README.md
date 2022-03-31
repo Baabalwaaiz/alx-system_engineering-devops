@@ -1,1 +1,1 @@
-11-list: List all files in previous directories
+12-file_type: Prints file type
