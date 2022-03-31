@@ -1,1 +1,1 @@
-100-lets_move: Moves files starting with upper case letters
+101-clean_emacs: Removes files ending with ~
