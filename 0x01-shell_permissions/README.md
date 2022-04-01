@@ -1,1 +1,1 @@
-10-mirror_permissions: Mirror permissions fo two files
+Add execution permissions to directories
