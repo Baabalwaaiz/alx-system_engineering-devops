@@ -1,1 +1,1 @@
-Add execution permissions to directories
+11-directories_permissions: Create permissions for subdirectories
