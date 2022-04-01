@@ -1,1 +1,1 @@
-11-directories_permissions: Create permissions for subdirectories
+12-directory_permissions: Set dir permissions
