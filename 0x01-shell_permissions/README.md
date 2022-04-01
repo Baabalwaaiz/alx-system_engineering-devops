@@ -1,1 +1,1 @@
-100: Change owner and group
+101: Symbolic link permissions
