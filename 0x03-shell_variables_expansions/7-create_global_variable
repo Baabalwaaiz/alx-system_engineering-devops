@@ -1,2 +1,2 @@
 #!/bin/bash
-BEST="School"| awk '{print $2}'
+BEST="School"
